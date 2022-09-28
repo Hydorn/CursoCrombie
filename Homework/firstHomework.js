@@ -85,3 +85,4 @@ class partyCrowd{
     console.log(`------------- Persona numero ${i+1}-----------------\n`);
     myParty[i].validatePartyAccess();
   }
+  */
